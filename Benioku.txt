@@ -1,0 +1,13 @@
+Telefon Similasyonu açýlan ilk pencereden Form1 kilit resmine týklanýnca ;açýlan Form2 deki textbox þifre bölümü ="1" Giriþ butonuna basýlýnca ;
+
+Form3 penceresi karþýmýza geliyor.
+
+Hakkýmýzda butonu proje yapan kiþi ders ad ve kodu,  öðretmen adý soyadý bulunmaktadýr.
+
+Telefon sekmesi rehber ekleme ,silme(telefon no ya göre ), güncelleme ,göster butonuda ad soyada göre resim gösteriyor ;aktif olan rehber görünmektedir.
+
+Mesaj sekmesinde kimden textbox alanýna "aysegulselek23@gmail.com"adresi yazýp kime textboxuna 
+dilediðin adresi yazabilirsiniz. 
+
+Diðer uygulamalar kullanýmý sorun  olmadan ulaþým yapýlabilir.
+Teþekkürler.
